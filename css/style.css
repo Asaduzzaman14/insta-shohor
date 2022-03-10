@@ -244,6 +244,9 @@ img {
 #reported{
   display: none;
 }
+#qus{
+  padding:10px 40px;
+}
 
 @media only screen and (max-width: 992px) {
   #posts {
